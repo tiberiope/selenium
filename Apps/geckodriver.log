@@ -1,1 +1,43 @@
 1650490054325	geckodriver	INFO	Listening on 127.0.0.1:57289
+1650490057295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57290" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIZcCsP"
+1650490057692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIZcCsP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57290/devtools/browser/50d07e5f-971d-4651-8a51-12803a86f047
+1650490063440	Marionette	INFO	Listening on port 57296
+1650490063618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650490074443	Marionette	INFO	Stopped listening on port 57296
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dell\AppData\Local\Temp\rust_mozprofileIZcCsP\protections.sqlite
+1650490083848	geckodriver	INFO	Listening on 127.0.0.1:57350
+1650490086800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57351" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTZ0YWa"
+1650490087252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTZ0YWa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57351/devtools/browser/3e03ad67-48f5-445f-9f07-86d617b8fd58
+1650490092765	Marionette	INFO	Listening on port 57360
+1650490093132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650490107666	Marionette	INFO	Stopped listening on port 57360
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dell\AppData\Local\Temp\rust_mozprofileTZ0YWa\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1650626603997	geckodriver	INFO	Listening on 127.0.0.1:52531
+1650626606975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52532" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilezTh217"
+1650626609849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilezTh217\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52532/devtools/browser/65e37d6a-281c-4aa4-a46f-6a46c79fa616
+1650626623977	Marionette	INFO	Listening on port 52541
+1650626625228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650626638135	Marionette	INFO	Stopped listening on port 52541
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1650626647977	geckodriver	INFO	Listening on 127.0.0.1:52617
+1650626650999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52618" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMY1SPG"
+1650626651584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMY1SPG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52618/devtools/browser/a129d003-3265-462f-8939-8c80035b202a
+1650626658146	Marionette	INFO	Listening on port 52624
+1650626658435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650626667468	Marionette	INFO	Stopped listening on port 52624
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dell\AppData\Local\Temp\rust_mozprofileMY1SPG\protections.sqlite
