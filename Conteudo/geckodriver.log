@@ -443,3 +443,237 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
 
+1651062802666	geckodriver	INFO	Listening on 127.0.0.1:64519
+1651062805639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64520" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQjblzp"
+1651062808855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQjblzp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64520/devtools/browser/9503cf71-8bcb-4a30-867f-a7627b298835
+1651062819532	Marionette	INFO	Listening on port 64526
+1651062819994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651062953106	Marionette	INFO	Stopped listening on port 64526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/maconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileHZeCJ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64658/devtools/browser/5c17de31-c279-4090-972a-d5420acb21c8
+1651062959661	Marionette	INFO	Listening on port 64664
+1651062959790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651063038327	Marionette	INFO	Stopped listening on port 64664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledBz5zJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63004/devtools/browser/8e52ea83-9d45-4524-8b60-ba54461db46b
+1651063036869	Marionette	INFO	Listening on port 63014
+1651063037350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651063288379	Marionette	INFO	Stopped listening on port 63014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ (void 0)))
+DevTools listening on ws://localhost:58511/devtools/browser/200d4253-c254-4329-972a-43d56e54a6de
+1651063282308	Marionette	INFO	Listening on port 58518
+1651063282701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1651063554370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52689" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilecYeuq0"
+1651063554938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilecYeuq0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52689/devtools/browser/cf851321-fa0a-49b5-8a3e-d903d4f35d3f
+1651063560790	Marionette	INFO	Listening on port 52698
+1651063561267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651063849614	geckodriver	INFO	Listening on 127.0.0.1:52912
+1651063852574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52913" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegfQLrX"
+1651063852984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegfQLrX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52913/devtools/browser/66d041f3-d287-46d1-971b-f13b687f280c
+1651063858676	Marionette	INFO	Listening on port 52920
+1651063858853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651063971417	Marionette	INFO	Stopped listening on port 52920
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651064053798	geckodriver	INFO	Listening on 127.0.0.1:53074
+1651064056742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53075" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJReHoN"
+1651064057175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJReHoN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53075/devtools/browser/a1dc99ff-1974-48b9-8841-6171b53ba7bc
+1651064062966	Marionette	INFO	Listening on port 53081
+1651064063071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064172731	Marionette	INFO	Stopped listening on port 53081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651064176489	geckodriver	INFO	Listening on 127.0.0.1:53192
+1651064179449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53193" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNUgT5Q"
+1651064180095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNUgT5Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53193/devtools/browser/b6ad5f08-3d70-4d2c-822d-41d9630f5910
+1651064185871	Marionette	INFO	Listening on port 53200
+1651064186325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064243342	Marionette	INFO	Stopped listening on port 53200
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651064251541	geckodriver	INFO	Listening on 127.0.0.1:53288
+1651064254491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53289" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2T8YZC"
+1651064254884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2T8YZC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53289/devtools/browser/88e0abf4-0110-443c-8158-248613f14ea9
+1651064260794	Marionette	INFO	Listening on port 53295
+1651064260894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064831725	Marionette	INFO	Stopped listening on port 53291651064832550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53678" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileKQUdTb"
+1651064832976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileKQUdTb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53678/devtools/browser/408f2e4a-c183-4280-a915-1cf48a3964e8
+1651064840118	Marionette	INFO	Listening on port 53684
+1651064840451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064856922	Marionette	INFO	Stopped listening on port 53684
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651064859337	geckodriver	INFO	Listening on 127.0.0.1:53745
+1651064862292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53746" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilexEMoWY"
+1651064862766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilexEMoWY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53746/devtools/browser/395c3cf4-1ce9-4432-9cad-acbad145cacc
+1651064867965	Marionette	INFO	Listening on port 53752
+1651064868099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064897152	Marionette	INFO	Stopped listening on port 53751651064897639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53813" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJtaxjG"
+1651064898256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJtaxjG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53813/devtools/browser/42813575-b9e3-4f19-acf8-e548d6f724f5
+1651064905658	Marionette	INFO	Listening on port 53821
+1651064906049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064971076	Marionette	INFO	Stopped listening on port 53821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5xR9P7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53894/devtools/browser/9ad3dbe4-f26b-42f9-973e-f315a77f6ea2
+1651064960404	Marionette	INFO	Listening on port 53901
+1651064960785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651064976175	Marionette	INFO	Stopped listening on port 53901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651066469258	geckodriver	INFO	Listening on 127.0.0.1:50947
+1651066472206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50948" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilepAkDLL"
+1651066472608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilepAkDLL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50948/devtools/browser/e3c37b14-eef5-49cf-a97c-fc5cb8ba06be
+1651066478564	Marionette	INFO	Listening on port 50954
+1651066478612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651066490090	Marionette	INFO	Stopped listening on port 50954
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651066797889	geckodriver	INFO	Listening on 127.0.0.1:51177
+1651066800834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51178" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUOiLlj"
+1651066801272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUOiLlj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51178/devtools/browser/61b27c97-1ae3-4d27-96ea-b84aef916b8a
+1651066807128	Marionette	INFO	Listening on port 51184
+1651066807167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651067833318	Marionette	INFO	Stopped listening on port 51184
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651068644654	geckodriver	INFO	Listening on 127.0.0.1:52249
+1651068647596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52250" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3vdR9Q"
+1651068648000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3vdR9Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52250/devtools/browser/6e5bd51c-29fb-4e94-a9b0-c21b6c5b23ea
+1651068653897	Marionette	INFO	Listening on port 52257
+1651068654005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651069283594	Marionette	INFO	Stopped listening on port 52257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile46HAAu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52491/devtools/browser/01563553-2dbb-49ad-8902-f1834c60ac7a
+1651069027964	Marionette	INFO	Listening on port 52498
+1651069028137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651069282941	Marionette	INFO	Stopped listening on port 52498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 22220, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651069285915	geckodriver	INFO	Listening on 127.0.0.1:52694
+1651069288855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52695" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3afY7O"
+1651069289297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile3afY7O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52695/devtools/browser/1a03fe63-add6-41ee-b704-1d791c1b4374
+1651069294965	Marionette	INFO	Listening on port 52703
+1651069295176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651069440924	Marionette	INFO	Stopped listening on port 52703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 19220, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+, (void 0)))
+DevTools listening on ws://localhost:52799/devtools/browser/80cd1353-c3fa-4d8a-9d34-ad57f7d46fd4
+1651069396137	Marionette	INFO	Listening on port 52807
+1651069396524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651069438433	Marionette	INFO	Stopped listening on port 52807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651069526161	geckodriver	INFO	Listening on 127.0.0.1:52927
+1651069529163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52928" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTAjFn1"
+1651069536639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTAjFn1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52928/devtools/browser/a7a984fd-ae4c-4bde-8908-0ea3a27ff67f
+1651069543670	Marionette	INFO	Listening on port 52934
+1651069544076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651069749750	Marionette	INFO	Stopped listening on port 52934
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651069754606	geckodriver	INFO	Listening on 127.0.0.1:53094
+1651069757500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53095" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileGgAy4K"
+1651069758000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileGgAy4K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53095/devtools/browser/a465a0a0-2f5d-4aa9-88c6-260fb29fe4db
+1651069763708	Marionette	INFO	Listening on port 53101
+1651069763808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651069776549	Marionette	INFO	Stopped listening on port 53101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 7896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651069876749	geckodriver	INFO	Listening on 127.0.0.1:53213
+1651069879679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53214" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVCVSy2"
+1651069880174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVCVSy2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53214/devtools/browser/285fc120-c6e5-4bae-8121-cb87f165167d
+1651069885900	Marionette	INFO	Listening on port 53223
+1651069886004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651069935459	Marionette	INFO	Stopped listening on port 53223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned fail1651069936201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile1jvvkI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53295/devtools/browser/88efc85b-b50f-43c3-9b52-b6c2485810a5
+1651069943920	Marionette	INFO	Listening on port 53301
+1651069943978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651069996790	Marionette	INFO	Stopped listening on port 53301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileHBJVfd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53387/devtools/browser/55c4c998-c216-49c5-bafc-00f7d9ac9271
+1651070000005	Marionette	INFO	Listening on port 53393
+1651070000173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651070021845	Marionette	INFO	Stopped listening on port 53393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651070494107	geckodriver	INFO	Listening on 127.0.0.1:53715
+1651070497083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53716" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilecjyH2o"
+1651070497471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilecjyH2o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53716/devtools/browser/c00bfe9a-cfc7-4a1a-b70f-57735604b5a5
+1651070504127	Marionette	INFO	Listening on port 53723
+1651070504473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651071675871	Marionette	INFO	Stopped listening on port 53723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
