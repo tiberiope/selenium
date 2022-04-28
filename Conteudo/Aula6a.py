@@ -33,10 +33,12 @@ a = navegador.find_elements(By.CSS_SELECTOR, value='[type$="t"]')
 print(len(a))
 
 nome = navegador.find_element(By.CSS_SELECTOR, value='[type="text"]')
+print('aqui ' + nome.get_attribute('id'))
 senha = navegador.find_element(By.CSS_SELECTOR, value='[type="password"]')
 btn = navegador.find_element(By.CSS_SELECTOR, value='[type="submit"]')
 
 a = navegador.find_elements(By.CSS_SELECTOR, value='label, input')
+
 print(len(a))
 
 # pega as tags BR que estiverem no mesmo nível que div (irmãos).
