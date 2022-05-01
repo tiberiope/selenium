@@ -1,4 +1,3 @@
-from email import header
 from selenium.webdriver import Firefox
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -13,7 +12,7 @@ def preencher_tarefa(navegador, nome_tarefa, descricao_tarefa):
     elemento_tarefa = navegador.find_element(By.ID, value='todo-desc')
     elemento_tarefa.send_keys(descricao_tarefa)
 
-    wdw = WebDriverWait(navegador, 30, poll_frequency=5)
+    wdw = WebDriverWait(navegador, 30, poll_frequency=3)
     wdw.until(partial(esperar_elemento, By.ID, 'todo-submit'), 'não conseguiu')   
 
     body = esperar_body(navegador)
@@ -23,7 +22,7 @@ def preencher_tarefa(navegador, nome_tarefa, descricao_tarefa):
 
 def mudar_tarefa(navegador):
 
-    wdw3 = WebDriverWait(navegador, 20, poll_frequency=4)
+    wdw3 = WebDriverWait(navegador, 20, poll_frequency=6)
     wdw3.until(partial(esperar_body_header)) 
 
     botao = navegador.find_element(By.CSS_SELECTOR, value='[class*="btn btn-primary btn-ghost do"]')
@@ -44,7 +43,7 @@ def esperar_header(webdriver):
 def esperar_body_header(webdriver):
     elems_body = webdriver.find_elements(By.CSS_SELECTOR, value='[class*="body"]')
     
-    wdw = WebDriverWait(webdriver, 10, poll_frequency=1)
+    wdw = WebDriverWait(webdriver, 10, poll_frequency=2)
     retorno = wdw.until_not(partial(esperar_header))
             
     return not retorno
