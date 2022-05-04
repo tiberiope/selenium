@@ -474,3 +474,26 @@ DevTools listening on ws://localhost:62622/devtools/browser/1cf310e0-edc3-4543-a
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
+1651507350484	geckodriver	INFO	Listening on 127.0.0.1:60103
+1651507353443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60104" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYLhrWw"
+1651507354032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYLhrWw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60104/devtools/browser/19f0bb75-f86f-4631-9d15-972db6962eaf
+1651507359451	Marionette	INFO	Listening on port 60110
+1651507359800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651507412364	Marionette	INFO	Stopped listening on port 60110
+[Parent 696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651508153952	geckodriver	INFO	Listening on 127.0.0.1:60999
+1651508156960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61001" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2nzkPR"
+1651508157624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2nzkPR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61001/devtools/browser/3359ee28-6e06-4f04-b4fa-6a1da0ce09c2
+1651508162483	Marionette	INFO	Listening on port 61008
+1651508162751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651508215401	Marionette	INFO	Stopped listening on port 61008
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+

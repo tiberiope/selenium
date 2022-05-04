@@ -1,0 +1,18 @@
+1651507135318	geckodriver	INFO	Listening on 127.0.0.1:59842
+1651507138263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59843" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYdocp4"
+1651507140842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYdocp4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59843/devtools/browser/a9d3ae52-e752-4e64-b729-6ffbd0f0c556
+1651507146955	Marionette	INFO	Listening on port 59851
+1651507147306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651507159371	Marionette	INFO	Stopped listening on port 59851
+1651507953357	geckodriver	INFO	Listening on 127.0.0.1:60755
+1651507956316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60756" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQ5tNjh"
+1651507957566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQ5tNjh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60756/devtools/browser/093ddaef-a7b0-4df9-a8cc-b4e2b6302b92
+1651507963367	Marionette	INFO	Listening on port 60762
+1651507963777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651507974460	Marionette	INFO	Stopped listening on port 60762
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
