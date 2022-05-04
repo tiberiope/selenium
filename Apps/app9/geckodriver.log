@@ -1,1 +1,21 @@
 1651695303238	geckodriver	INFO	Listening on 127.0.0.1:54064
+1651695306155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54065" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFugpEY"
+1651695306808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFugpEY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54065/devtools/browser/8563392e-c634-4d2f-b4b8-88f3ba580230
+1651695312079	Marionette	INFO	Listening on port 54070
+1651695312401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1651695794873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54182" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAvGjK8"
+1651695795580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAvGjK8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54182/devtools/browser/d40065d8-cc9a-4cce-8d51-4dc5b31d181d
+1651695803008	Marionette	INFO	Listening on port 54188
+1651695803224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://selenium.dunossauro.live/js/brython_modules.js, line 1: ReferenceError: __BRYTHON__ is not defined
+JavaScript error: https://selenium.dunossauro.live/js/brython.js line 7929 > eval, line 41: Error: 
+1651695937521	Marionette	INFO	Stopped listening on port 54188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
